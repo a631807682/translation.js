@@ -1,7 +1,7 @@
 import md5 from '../../../utils/md5'
 
 const client = 'fanyideskweb'
-const sk = "rY0D^0'nM0}g5Mm1z%1G4"
+const sk = "1L5ja}w$puC.v_Kz3@yYn"
 
 /**
  * 有道翻译接口的签名算法
